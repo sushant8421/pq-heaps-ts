@@ -1,0 +1,36 @@
+{
+  "name": "pq-heaps-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushant8421/pq-heaps-ts.git"
+  },
+  "keywords": [
+    "heaps",
+    "priority-queue",
+    "priority-queues",
+    "priority-queues-ts",
+    "priority-queues-typescript",
+    "pq-heaps",
+    "pq-heaps-ts",
+    "pq-heaps-typescript",
+    "priority-queue-ts",
+    "priority-queues-typescript",
+    "priority-queues-typescript",
+    "min-max-heap",
+    "min-max-heap-ts",
+    "min-max-heap-typescript",
+    "min-max-heap-typescript"
+  ],
+  "author": "sushant yadav <mailme.sushantyadav@gmailcom>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushant8421/pq-heaps-ts/issues"
+  },
+  "homepage": "https://github.com/sushant8421/pq-heaps-ts#readme"
+}
